@@ -1,0 +1,15 @@
+{
+  "name": "home-buying-calm-guide",
+  "version": "1.0.0",
+  "description": "A first-time home buyer's manual in plain English: documents decoded, pre-approval without panic, touring with a checklist, inspection vs appraisal, escrow and closing day, and budgeting for year one. Education only, never financial or legal advice.",
+  "private": true,
+  "license": "MIT",
+  "author": "Asdale Dynamics, LLC",
+  "scripts": {
+    "build": "node build.js",
+    "test": "node test/build.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
